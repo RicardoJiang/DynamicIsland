@@ -1,4 +1,4 @@
-rootProject.name = "MyApplication"
+rootProject.name = "DynamicIsland"
 
 include(":androidApp")
 include(":shared")
